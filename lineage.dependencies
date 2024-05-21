@@ -8,5 +8,5 @@
     "target_path": "vendor/google/raven",
     "remote": "sigma-devices",
     "branch": "sigma-14.2"
-  },
+  }
 ]
